@@ -1,0 +1,8 @@
+### Embion v0.01_11 ###
+
+Latest Updates:
+- Added a "disclaimer" upon entering the server. Simply close it by pressing ESC or X 
+- Added a new pistol - Shoots a bit differently than the classic pistol
+- Added a Knife sound effect - For this I used the OnCollision event, depending on what was hit, it will play a sound-effect.
+- Fixed sound effects a bit, but they still rarely play accordingly.
+- Fixed ammo display - Now displays only when you are wielding a gun.
